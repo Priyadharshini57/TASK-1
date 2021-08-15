@@ -1,7 +1,7 @@
 TSF-TASKS
 ![logo](https://user-images.githubusercontent.com/88180533/129455749-be7fe683-4a2a-422a-920f-bdca44bd7241.png)
 
-The spark foundation-web development
+The spark foundation-web and mobile development
 AUTHOR: PRIYADHARSHINNI S
 
 TASK-1: Basic Banking System(LEVEL-BEGINNER)
